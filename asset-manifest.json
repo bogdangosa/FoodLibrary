@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/FoodLibrary/static/css/main.1de46e2a.chunk.css",
-    "main.js": "/FoodLibrary/static/js/main.dcaa6bf7.chunk.js",
-    "main.js.map": "/FoodLibrary/static/js/main.dcaa6bf7.chunk.js.map",
+    "main.css": "/FoodLibrary/static/css/main.b8faa03b.chunk.css",
+    "main.js": "/FoodLibrary/static/js/main.f3996b3d.chunk.js",
+    "main.js.map": "/FoodLibrary/static/js/main.f3996b3d.chunk.js.map",
     "runtime-main.js": "/FoodLibrary/static/js/runtime-main.f5404fd7.js",
     "runtime-main.js.map": "/FoodLibrary/static/js/runtime-main.f5404fd7.js.map",
     "static/js/2.b2ae4637.chunk.js": "/FoodLibrary/static/js/2.b2ae4637.chunk.js",
     "static/js/2.b2ae4637.chunk.js.map": "/FoodLibrary/static/js/2.b2ae4637.chunk.js.map",
     "index.html": "/FoodLibrary/index.html",
-    "static/css/main.1de46e2a.chunk.css.map": "/FoodLibrary/static/css/main.1de46e2a.chunk.css.map",
+    "static/css/main.b8faa03b.chunk.css.map": "/FoodLibrary/static/css/main.b8faa03b.chunk.css.map",
     "static/js/2.b2ae4637.chunk.js.LICENSE.txt": "/FoodLibrary/static/js/2.b2ae4637.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5404fd7.js",
     "static/js/2.b2ae4637.chunk.js",
-    "static/css/main.1de46e2a.chunk.css",
-    "static/js/main.dcaa6bf7.chunk.js"
+    "static/css/main.b8faa03b.chunk.css",
+    "static/js/main.f3996b3d.chunk.js"
   ]
 }
